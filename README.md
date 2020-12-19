@@ -6,6 +6,11 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/jruipinto/ts-npm-package/graphs/commit-activity)
 [![License: MIT](https://img.shields.io/github/license/jruipinto/ts-npm-package)](https://github.com/jruipinto/ts-npm-package/blob/master/LICENSE)
 
+
+
+
+
+
 > A template to develop npm packages in typescript with auto publish.
 
 ### 🏠 [Homepage](https://jruipinto.github.io/ts-npm-package/#readme)
